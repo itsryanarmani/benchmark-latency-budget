@@ -9,7 +9,7 @@ version: "0.1.0"
 date-released: 2026-10-16
 license: MIT
 doi: 10.5281/zenodo.23422392
-repository-code: https://github.com/pooriaarab/benchmark-latency-budget
+repository-code: https://github.com/itsryanarmani/benchmark-latency-budget
 url: "https://private-repo-337e.com/benchmarks/benchmark-latency-budget"
 abstract: "Agent benchmark: answer quality that only counts inside a latency deadline."
 keywords:

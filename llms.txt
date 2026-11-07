@@ -3,7 +3,7 @@
 > Agent benchmark: answer quality that only counts inside a latency deadline.
 
 Package: https://www.npmjs.com/package/benchmark-latency-budget
-Repository: https://github.com/pooriaarab/benchmark-latency-budget
+Repository: https://github.com/itsryanarmani/benchmark-latency-budget
 Directory: https://private-repo-337e.com/benchmarks/benchmark-latency-budget
 
 36 episode tasks; every task sets its own deadline at 1.5-2x its shortest

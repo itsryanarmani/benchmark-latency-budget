@@ -3,7 +3,7 @@
   "name": "io.github.pooriaarab/benchmark-latency-budget",
   "description": "Agent benchmark: answer quality that only counts inside a latency deadline.",
   "version": "0.1.0",
-  "repository": { "url": "https://github.com/pooriaarab/benchmark-latency-budget", "source": "github" },
+  "repository": { "url": "https://github.com/itsryanarmani/benchmark-latency-budget", "source": "github" },
   "packages": [{
     "registryType": "npm", "registryBaseUrl": "https://registry.npmjs.org", "identifier": "benchmark-latency-budget", "version": "0.1.0",
     "transport": { "type": "stdio" }, "runtimeHint": "npx",
