@@ -4,8 +4,8 @@
   "description": "Agent benchmark: answer quality that only counts inside a latency deadline.",
   "keywords": ["ai-benchmark", "llm-evaluation", "model-evaluation", "evals", "grading", "openrouter", "openai", "mcp", "typescript", "agent-benchmark", "latency", "response-time", "voice-agents"],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-latency-budget",
-  "bugs": "https://github.com/pooriaarab/benchmark-latency-budget/issues",
-  "repository": { "type": "git", "url": "git+https://github.com/pooriaarab/benchmark-latency-budget.git" },
+  "bugs": "https://github.com/itsryanarmani/benchmark-latency-budget/issues",
+  "repository": { "type": "git", "url": "git+https://github.com/itsryanarmani/benchmark-latency-budget.git" },
   "license": "MIT", "author": "Pooria Arab", "type": "module",
   "main": "./dist/index.js", "types": "./dist/index.d.ts",
   "exports": {
